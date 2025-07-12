@@ -1,0 +1,13 @@
+# Vulnerable examples
+*/*/examples/*
+
+# Formatting guidelines (internal documentation)
+formatting.md
+
+# Development files
+.DS_Store
+*.log
+*.tmp
+
+# Claude
+.claude/
